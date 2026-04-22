@@ -1,0 +1,16 @@
+.env
+
+*.ipynb_checkpoints/
+__pycache__/
+
+# Ignore all CSV files
+*.csv
+
+# Ignore the specific data folder
+data/
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore the yfinance cache we created earlier
+yfinance.cache*
