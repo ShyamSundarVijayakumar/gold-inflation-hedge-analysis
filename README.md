@@ -167,3 +167,14 @@ Comparative analysis of Gold as an inflation hedge in Germany vs. India
     <td colspan="1" align="center"><img src="assets/Volume.png" width="800"/></td>
   </tr>
 </table>
+
+<h3>Key Research Takeaways</h3>
+<ul>
+  <li><strong>Gold as a Wealth Protector:</strong> With a 26-year CAGR of 10.5%–14.6% against an inflation rate of 1.9%–5.9%, gold has not merely preserved value but significantly enhanced purchasing power over the long term.</li>
+  <li><strong>The "Alternative Asset" Reality:</strong> The near-zero correlation (–0.11 to 0.02) demonstrates that gold does not function as a reactive inflation hedge; rather, it moves as an independent currency alternative.</li>
+  <li><strong>Currency Dynamics (INR vs. EUR):</strong> Gold returns in India (14.6%) outperformed those in Germany (10.6%) because the strategy captured both the rising global gold price and the structural depreciation of the Rupee.</li>
+  <li><strong>Multiplier Effect:</strong> In India, INR depreciation acted as a "multiplier," significantly boosting nominal local returns. Conversely, in Germany, the relative strength of the EUR against the USD acted as a performance drag, illustrating how a strong local currency can dampen nominal gains for USD-denominated commodities.</li>
+</ul>
+
+<h3>Future Roadmap</h3>
+<p><strong>Predictive Modeling (In Development):</strong> An integrated machine learning module is currently being developed to forecast gold price trends based on historical volatility and macroeconomic indicators. This component will be added upon completion.</p>
